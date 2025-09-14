@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Project-Eliminator/as/refs/heads/main/FunkTower2-v1.luau"))()
